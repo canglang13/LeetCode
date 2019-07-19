@@ -1,4 +1,4 @@
-
+package ¶þ²æÊ÷;
 public class SortedArrayToBST {
 
 	public static TreeNode sortedArrayToBST(int[] nums) {

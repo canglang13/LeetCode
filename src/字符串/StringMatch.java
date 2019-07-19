@@ -1,3 +1,4 @@
+package ×Ö·û´®;
 import java.util.HashMap;
 import java.util.Scanner;
 

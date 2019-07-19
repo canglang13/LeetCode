@@ -1,4 +1,4 @@
-
+package ¶þ²æÊ÷;
 class Solution01 {
     public TreeNode buildTree(int[] preorder, int[] inorder) {
     	TreeNode root=dfs(preorder,inorder,0,0,inorder.length-1);
