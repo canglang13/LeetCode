@@ -1,5 +1,12 @@
 package array;
 
+/**
+ * Given an array, rotate the array to the right by k steps, 
+ * where k is non-negative.
+ *
+ * @author£º charles
+ * @date£º 2019-08-01 11:18
+ */
 public class RotateArray {
 	public static void rotate(int[] nums, int k) {
 		if(k>nums.length) {
