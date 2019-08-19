@@ -1,9 +1,10 @@
 package ×Ö·û´®;
 
 /**
- *Given a string, 
- *find the length of the longest substring without repeating characters.
- *
+ * Given a string, 
+ * find the length of the longest substring without repeating characters.
+ * tips:»¬¶¯´°¿Ú
+ * 
  * @author£º charles
  * @date£º 2019-08-16 11:05
  */

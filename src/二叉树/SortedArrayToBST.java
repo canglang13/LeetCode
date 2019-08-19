@@ -32,8 +32,5 @@ public class SortedArrayToBST {
             buildTree((pos+nums.length-1)/2,nums,root.right);
         }*/
     }
-     public static void main(String[] args) {
-    	int[] nums= {-10,-3,0,5,9};
-    	TreeNode root=sortedArrayToBST(nums);
-    }
+     
 }

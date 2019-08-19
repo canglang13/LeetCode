@@ -4,8 +4,9 @@ public class Main {
 	static int time=0;
 	static int u;
 	static int d;
+	private static Scanner scan;
 	public static void main(String[] args) {
-		Scanner scan=new Scanner(System.in);
+		scan = new Scanner(System.in);
 		while(scan.hasNext()) {
 			time=0;
 			int n=scan.nextInt();

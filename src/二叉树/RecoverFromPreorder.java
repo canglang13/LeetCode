@@ -1,6 +1,5 @@
 package ¶þ²æÊ÷;
 import java.util.LinkedList;
-import java.util.List;
 
 public class RecoverFromPreorder {
 	public TreeNode recoverFromPreorder(String S) {
